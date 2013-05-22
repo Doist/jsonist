@@ -19,5 +19,6 @@ setup(
     py_modules=['jsonist'],
     install_requires=[
         'python-cjson',
+        'pytz',
     ],
 )
